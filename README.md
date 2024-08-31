@@ -1,2 +1,2 @@
-# Hobby-Hop
+# Hobby-Lobby
 An application to meet  people in communities that you share in your area
